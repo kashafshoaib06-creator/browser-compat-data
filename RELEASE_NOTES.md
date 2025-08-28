@@ -1,5 +1,23 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.1](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.1)
+
+August 28, 2025
+
+### Additions
+
+- `browsers.bun.releases.1.2.21` ([#27682](https://github.com/mdn/browser-compat-data/pull/27682))
+- `webdriver.bidi.browser.setClientWindowState` ([#27673](https://github.com/mdn/browser-compat-data/pull/27673))
+- `webdriver.bidi.browser.setClientWindowState.clientWindow_parameter` ([#27673](https://github.com/mdn/browser-compat-data/pull/27673))
+- `webdriver.bidi.session.new.capability_matching` ([#27673](https://github.com/mdn/browser-compat-data/pull/27673))
+
+### Statistics
+
+- 7 contributors have changed 17 files with 291 additions and 142 deletions in 14 commits ([`v7.1.0...v7.1.1`](https://github.com/mdn/browser-compat-data/compare/v7.1.0...v7.1.1))
+- 17,791 total features
+- 1,191 total contributors
+- 5,367 total stargazers
+
 ## [v7.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.0)
 
 August 26, 2025
